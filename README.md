@@ -21,4 +21,10 @@
 - 💡 **Health Prediction Based On Daily Life Activity Using Machine Learning** – [Repo Link](#)
 - 🛍️ **E-Commerce System (PHP + MySQL)** – [Repo Link](#)
 
+## 📫 Let's Connect
+
+- 📍 Location: India  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jmalleswari/)   
+- ✉️ [Email](mailto:monumalleswari@gmail.com) 
+
   
