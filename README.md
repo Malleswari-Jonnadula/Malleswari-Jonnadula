@@ -25,6 +25,6 @@
 
 - 📍 Location: India  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jmalleswari/)   
-- ✉️ [Email](mailto:monumalleswari@gmail.com) 
+- ✉️ [Email:monumalleswari@gmail.com](mailto:monumalleswari@gmail.com) 
 
   
