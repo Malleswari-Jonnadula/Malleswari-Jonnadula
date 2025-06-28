@@ -5,7 +5,9 @@
 
 🎓 2025 CSE (AI & ML) Graduate at Lakireddy Bali Reddy College of Engineering 
 🌟 Passionate about Machine Learning, Full-Stack Development, and Python
-🚀 Love building smart solutions that solve real-world problems 
+💻 Love building smart solutions that solve real-world problems 
+💡 Currently exploring MERN STACK, DSA, and advanced ML techniques
+🚀 Always learning, always building
 
 ##  Technical Skills 
 - **Languages:** Python, Java, SQL, JavaScript, PHP  
