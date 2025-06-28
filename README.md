@@ -3,10 +3,10 @@
 <!--
 **JonnadulaMalleswari/JonnadulaMalleswari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-🎓 2025 CSE (AI & ML) Graduate at Lakireddy Bali Reddy College of Engineering 
+🎓 2025 CSE (AI & ML) Graduate at Lakireddy Bali Reddy College of Engineering,Mylavaram 
 🌟 Passionate about Machine Learning, Full-Stack Development, and Python
 💻 Love building smart solutions that solve real-world problems 
-💡 Currently exploring MERN STACK, DSA, and advanced ML techniques
+💡 Currently exploring MERN STACK and DSA
 🚀 Always learning, always building
 
 ##  Technical Skills 
