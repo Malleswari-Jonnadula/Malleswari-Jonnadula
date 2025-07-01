@@ -18,13 +18,15 @@
 
 ## Projects
 - 🏠 **Smart Home Automation (IoT + Blynk)** – [Repo Link](#)
-- 💡 **Health Prediction Based On Daily Life Activity Using Machine Learning** – [https://github.com/JonnadulaMalleswari/Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](#)
+- 💡 [Health Prediction App](https://github.com/JonnadulaMalleswari/Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning)  
+  🔗 [Live Demo](https://health-prediction-based-on-life-activity-using-machine-learning.streamlit.app)
+
 - 🛍️ **E-Commerce System (PHP + MySQL)** – [Repo Link](#)
 
 ## 📫 Let's Connect
 
 - 📍 Location: India  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jmalleswari/)   
+- 🔗 **LinkedIn**-[https://www.linkedin.com/in/jmalleswari/](#)
 - ✉️ [Email:monumalleswari@gmail.com](mailto:monumalleswari@gmail.com) 
 
   
