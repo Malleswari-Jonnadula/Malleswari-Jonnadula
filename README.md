@@ -19,8 +19,7 @@
 ## Projects
 - 🏠 **Smart Home Automation (IoT + Blynk)** – [Repo Link](#)
 - 💡 **Health Prediction Based On Daily Life Activity Using Machine Learning**
--📂 GitHub Repo : [Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](https://github.com/JonnadulaMalleswari/Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning) 
--🔗 Live Demo: [health-prediction-based-on-life-activity.streamlit.app](https://health-prediction-based-on-life-activity-using-machine-learning.streamlit.app)
+  – 📂 GitHub Repo : [Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](https://github.com/JonnadulaMalleswari/Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning) 
 
 - 🛍️ **E-Commerce System (PHP + MySQL)** – [Repo Link](#)
 
