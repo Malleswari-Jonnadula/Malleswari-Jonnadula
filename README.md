@@ -17,11 +17,10 @@
 - **Tools:** Git, VS Code, Figma
 
 ## Projects
-- 🏠 **Smart Home Automation (IoT + Blynk)** – [Repo Link](#)
+- 🏠 **Smart Home Automation (IoT + Blynk)** 
 - 💡 **Health Prediction Based On Daily Life Activity Using Machine Learning**
-  – 📂 [Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](https://github.com/JonnadulaMalleswari/Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning) 
-
-- 🛍️ **E-Commerce System (PHP + MySQL)** – [Repo Link](#)
+  – 📂 [Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](https://github.com/Malleswari-Jonnadula/Health-Prediction-Based-On-Daily-Life-Activity)
+- 🛍️ **E-Commerce System (PHP + MySQL)** 
 
 ## 📫 Let's Connect
 
