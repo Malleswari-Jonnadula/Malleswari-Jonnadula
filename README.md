@@ -19,7 +19,7 @@
 ## Projects
 - 🏠 **Smart Home Automation (IoT + Blynk)** 
 - 💡 **Health Prediction Based On Daily Life Activity Using Machine Learning**
-  – 📂 [Health-Prediction-Based-On-Daily-Life-Activity-Using-Machine-Learning](https://github.com/Malleswari-Jonnadula/Health-Prediction-Based-On-Daily-Life-Activity)
+  – 🔗 [View the Project on GitHub](https://github.com/Malleswari-Jonnadula/Health-Prediction-Based-On-Daily-Life-Activity)
 - 🛍️ **E-Commerce System (PHP + MySQL)** 
 
 ## 📫 Let's Connect
